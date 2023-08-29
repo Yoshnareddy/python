@@ -1,0 +1,5 @@
+Class bike:
+def_init_(self,color,make,model):
+    self.color = color
+    self.make = make
+    self.model = model
