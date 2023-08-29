@@ -7,3 +7,4 @@ syntax is help(object)
 program:
 info = help()
 print(info)
+and dir() function can also list out all the available attributes for a module,list,dictionary
