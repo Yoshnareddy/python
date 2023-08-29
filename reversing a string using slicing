@@ -1,0 +1,2 @@
+a = "Myself Yoshna"[::-1]
+print(a)
