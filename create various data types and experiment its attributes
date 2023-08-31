@@ -21,3 +21,4 @@ for popping an item which is empty we will follow the syntax dict.pop(item) i.e
 d.pop('mango')
 d.pop('banana')
 print(d)
+
