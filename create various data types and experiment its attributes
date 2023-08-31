@@ -14,3 +14,10 @@ print(L)
 using dictionary data type:-
 d = {'mango':10,'banana':0,'apple':15,'orange':0,'pineapple':20}
 print(d)
+new = {'mango':15,'pineapple':15,'banana':0,'orange':0,'apple':15}
+d.update(new)
+print(d)
+for popping an item which is empty we will follow the syntax dict.pop(item) i.e
+d.pop('mango')
+d.pop('banana')
+print(d)
