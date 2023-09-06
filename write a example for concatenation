@@ -18,8 +18,7 @@ using % operator:-
 var1 = "hello"
 var2 = "yoshna"
 print("% s % s" % (var1, var2))
-using ","
-
+using ",":-
 var1 = "hello"
 var2 = "gym"
 var3 = "freak"
